@@ -1,0 +1,2 @@
+Git log will show commits in order with the most recent at the top.
+Git allows you to see the changes made between to versions of file
