@@ -1,0 +1,3 @@
+Initializing a repository creates a file called .git and presents a msg listing untracked files.
+
+Staging area holds files to be commited. THis allows some file to be committed..
