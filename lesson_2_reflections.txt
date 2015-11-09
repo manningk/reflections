@@ -1,3 +1,6 @@
 Initializing a repository creates a file called .git and presents a msg listing untracked files.
 
 Staging area holds files to be commited. THis allows some file to be committed..
+
+How can you use the staging area to make sure you have one commit per logical change?
+ add one file at a time and commit
