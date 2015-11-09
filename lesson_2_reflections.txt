@@ -4,3 +4,9 @@ Staging area holds files to be commited. THis allows some file to be committed..
 
 How can you use the staging area to make sure you have one commit per logical change?
  add one file at a time and commit
+
+ How do the diagrams help you visualize the branch structure?
+ Diagrams help you see the relationships between branches and commits
+
+ What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+ the commits are interleved
